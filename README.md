@@ -5,3 +5,4 @@ There are 232 Allows and 55 Denys for Domains.
 There are 7,242.373 Address' in the blocklist with there being 150 text files. 
 
 Thank you for reading and happily share this! I love supporting everyone in the best way possible :3
+This wont be my last update so keep updating for more allowlist's and bloclists!
