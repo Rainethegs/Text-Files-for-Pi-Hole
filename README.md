@@ -1,4 +1,6 @@
 # Text-Files-for-Pi-Hole
+(MAKE SURE TO CHECK RELEASES FOR THE GRAVITY LIST)
+
 This github repository is for all of the domains that I have for Pi-Hole to get rid of ALL of my ads. This has been sorted and it may break some of your devices. Look through the .txt file before putting on your own. I HIGHLY reccomend making sure this does NOT block any of your necassary devices such as XFINITY, Roku, and other apps like Facebook and Apple. This Repository has both Domain Allows, Deny's and Regex Deny's / Allows plus Gravity A/D's. Make sure to find the file you need and make sure none of your devices conflict with the blocklist.
 
 There are 232 Allows and 55 Denys for Domains.
