@@ -1,0 +1,12 @@
+--- REGEX WHITELIST (REGEX ALLOW) ---
+(\.|^)github\.com$
+(\.|^)githubusercontent\.com$
+(\.|^)github\.dev$
+(\.|^)github\.io$
+(\.|^)ghcr\.io$
+(\.|^)curseforge\.com$
+(\.|^)forgecdn\.net$
+(\.|^)overwolf\.com$
+(\.|^)cursecdn\.com$
+(\.|^)twitch\.tv$
+(\.|^)fbcdn\.net$

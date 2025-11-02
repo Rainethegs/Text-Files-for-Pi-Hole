@@ -1,0 +1,11 @@
+--- EXACT BLACKLIST (DENY) ---
+admetrk.com
+cert.ssl.com
+www.safeplacegaming.com
+blueadvlnd.com
+mkyyi19qkx0h.s4.adsco.re
+_2087._https.6.adsco.re
+_2087._https.4.adsco.re
+cdn.fluidplayer.com
+static-delivery.sr.roku.com
+microsites.sr.roku.com
